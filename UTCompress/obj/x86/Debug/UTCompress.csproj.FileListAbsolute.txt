@@ -1,0 +1,9 @@
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\bin\Debug\UTCompress.exe
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\bin\Debug\UTCompress.pdb
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Debug\UTCompress.csprojResolveAssemblyReference.cache
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Debug\UTCompress.Properties.Resources.resources
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Debug\UTCompress.csproj.GenerateResource.Cache
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Debug\UTCompress.exe
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Debug\UTCompress.pdb
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Debug\UTCompress.MainForm.resources
+c:\users\sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Debug\UTCompress.ProcessForm.resources

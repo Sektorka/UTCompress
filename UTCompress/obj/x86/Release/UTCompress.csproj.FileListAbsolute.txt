@@ -1,0 +1,17 @@
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\bin\Release\UTCompress.exe
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\bin\Release\UTCompress.pdb
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Release\UTCompress.csprojResolveAssemblyReference.cache
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Release\UTCompress.MainForm.resources
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Release\UTCompress.ProcessForm.resources
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Release\UTCompress.Properties.Resources.resources
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Release\UTCompress.csproj.GenerateResource.Cache
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Release\UTCompress.exe
+C:\Users\Sektor\documents\visual studio 2010\Projects\UTCompress\UTCompress\obj\x86\Release\UTCompress.pdb
+D:\Sektor\Develop\Projects\Visual Studio 2010\UTCompress\UTCompress\obj\x86\Release\UTCompress.exe
+D:\Sektor\Develop\Projects\Visual Studio 2010\UTCompress\UTCompress\obj\x86\Release\UTCompress.pdb
+d:\Sektor\Develop\Projects\Visual Studio 2010\UTCompress\UTCompress\bin\Release\UTCompress.exe
+d:\Sektor\Develop\Projects\Visual Studio 2010\UTCompress\UTCompress\bin\Release\UTCompress.pdb
+d:\Sektor\Develop\Projects\Visual Studio 2010\UTCompress\UTCompress\obj\x86\Release\UTCompress.MainForm.resources
+d:\Sektor\Develop\Projects\Visual Studio 2010\UTCompress\UTCompress\obj\x86\Release\UTCompress.ProcessForm.resources
+d:\Sektor\Develop\Projects\Visual Studio 2010\UTCompress\UTCompress\obj\x86\Release\UTCompress.Properties.Resources.resources
+d:\Sektor\Develop\Projects\Visual Studio 2010\UTCompress\UTCompress\obj\x86\Release\UTCompress.csproj.GenerateResource.Cache
